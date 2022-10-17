@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+table, th, td {
+    border: 1px solid rgb(219, 20, 20);
+    border-collapse: collapse;
+  }
+
+table {
+    width: 100%;
+}
